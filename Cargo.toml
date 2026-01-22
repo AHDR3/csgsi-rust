@@ -2,6 +2,13 @@
 name = "csgsi-rust"
 version = "0.1.0"
 edition = "2024"
+authors = ["AHDR3"]
+description = "Counter-Strike 2 GSI system similar to osztenkurden"
+license = "MIT"
+repository = "https://github.com/AHDR3/csgsi-rust"
+homepage = "https://github.com/AHDR3/csgsi-rust"
+keywords = ["csgo", "cs2", "cs", "gsi", "csgogsi"]
+categories = ["network-programming", "games"]
 
 [dependencies]
 serde = { version = "1", features = ["derive"] }
